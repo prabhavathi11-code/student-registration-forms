@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (student.aadhaarDataUrl) {
       aadhaarLink.href = student.aadhaarDataUrl;
     } else if (student.aadhaarPath) {
-      aadhaarLink.href = `/uploads/${student.aadhaarPath}`;
+      aadhaarLink.href = `uploads/${student.aadhaarPath}`;
     } else {
       aadhaarLink.href = '#';
     }

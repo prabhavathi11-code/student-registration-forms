@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       if (student.aadhaarDataUrl) {
         pdfUrl = student.aadhaarDataUrl;
       } else if (student.aadhaarPath) {
-        pdfUrl = `/uploads/${student.aadhaarPath}`;
+        pdfUrl = `uploads/${student.aadhaarPath}`;
       }
 
       return `
