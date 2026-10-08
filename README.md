@@ -138,7 +138,7 @@ To upload this project to your GitHub account (`prabhavathi11-code`):
 1. Go to [GitHub.com](https://github.com/new) and create a new public repository named `student-registration-dashboard`.
 2. Run the following terminal commands:
 ```bash
-git remote add origin https://github.com/prabhavathi11-code/Student.git
+git remote add origin https://github.com/prabhavathi11-code/student-registration-forms.git
 git branch -M main
 git push -u origin main
 ```
@@ -151,12 +151,12 @@ git push -u origin main
 1. Push this repository to your GitHub.
 2. Sign up / Log in to [Render.com](https://render.com/).
 3. Click **New +** $\rightarrow$ **Web Service**.
-4. Connect your `Student` repository (`https://github.com/prabhavathi11-code/Student`).
+4. Connect your `student-registration-forms` repository (`https://github.com/prabhavathi11-code/student-registration-forms`).
 5. Set:
    - **Environment:** `Node`
    - **Build Command:** `npm install`
    - **Start Command:** `npm start`
-6. Click **Deploy Web Service**. You will receive an open access live URL (e.g., `https://student-registration-dashboard.onrender.com`).
+6. Click **Deploy Web Service**. You will receive an open access live URL (e.g., `https://student-registration-forms.onrender.com`).
 
 ### Option B: GitHub Pages (Client-Side Simulation Fallback)
 1. In your GitHub repository, go to **Settings** $\rightarrow$ **Pages**.
