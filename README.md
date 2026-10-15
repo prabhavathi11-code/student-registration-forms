@@ -1,5 +1,5 @@
 # Student Registration & Management Portal (Screening Round 1)
-
+   
 > **Full-Stack Student Management System** built with Node.js, Express, Bootstrap 5, and SQLite/JSON database, complete with client-side localStorage fallback, Aadhaar PDF validation, instant multi-filtering, access control, and full CRUD operations.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-2ea44f?style=for-the-badge&logo=github)](https://prabhavathi11-code.github.io/student-registration-forms/)
